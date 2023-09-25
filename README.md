@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **HTML,Javascript,CSS,dart,Flutter,React**
+- 💬 Ask me about **HTML, Javascript, CSS, dart, Flutter, React**
 
 - 📫 How to reach me **abidnk34@gmail.com**
 
