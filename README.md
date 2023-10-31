@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently looking for a Good opportunity 
 
-- 💬 Ask me about **HTML, Javascript, CSS, dart, Flutter, React**
+- 💬 Ask me about **HTML, Javascript, CSS, dart, Flutter, React, Redux, NextJS, Typescript, Figma**
 
 - 📫 How to reach me **abidnk34@gmail.com**
 
