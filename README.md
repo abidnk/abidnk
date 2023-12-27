@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently looking for a Good opportunity 
 
-- 💬 Ask me about **HTML, Javascript, CSS, dart, Flutter, React, Redux, NextJS, Typescript, Figma**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, NextJS, Typescript, Figma, Dart, Flutter, **
 
 - 📫 How to reach me **abidnk34@gmail.com**
 
